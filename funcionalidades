@@ -27,3 +27,20 @@ vendedor:
 	- mostruario online *
 	- ver mostruario *
 	- solicitar mostruario *
+	- criar rota
+	- solicitar aprovaçao de rota*
+
+administrador:
+	- ver todos os usuarios
+	- ver todos os vendedores
+	- ver todas as lojas
+	- ver relatorios
+	- ver todos os eventos
+	- remover lojas
+	- remover eventos
+	- remover vendedores
+	- criar mostruario
+	- remover mostruario
+	- crar rota
+	- remover rota
+	- aprovar rota
