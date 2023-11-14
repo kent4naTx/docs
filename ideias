@@ -1,0 +1,22 @@
+
+1. Sistema e-commerce
+
+	Loja on-line, basicamente um sistema de loja convencional que vai mostrar os produtos para usuarios e para lojistas.
+	Esses produtos terão suas quantidades em estoque, coleções, disponibiliade e preços.
+	A partir disso o usuario/lojista, podera comprar produto da loja.
+		
+	Compras realizadas por usuarios vinculados a uma loja(lojista). precisa que tenha um valor minimo para a compra ser realizada.
+	A compra feita por um lojista haveram mais produtos, com mais informações sobre esses produtos, vantagens para que a compra
+	seja realizada.
+	Usuarios comuns terão um limite de produtos por compra (10 peças).
+	
+	A compra sempre será realizada por intermedio de um vendedor, sendo um dos vendedores a propria empresa mãe.
+	Quando um vendedor que não seja a empresa mãe, este ganha uma porcentagem de comissão sobre a venda.
+	** Pensar em um meio de realizar essa compra online-intermediada evitando fraudes por meio de vendedores e lojistas **
+	* ideia: o vendedor poderia gerar um token para o lojista e por meio desse token que seria vinculado uma loja com um vendedor *
+	* esse token, teria uma validade curta(10 minutos). Para que a transação seja feita pelo lojista*
+	* apos feita, é gerado um token do lojista que ele precisa enviar para o vendedor validar a compra *
+	* com a trasação feita pelo lojista. Vai uma notificacao para um painel do vendedor. e esse tem 10 minutos para confirmar a compra 			
+	 do lojista utilizando o token que é gerado pelo lojista *
+	* essa transação com intermediario-online, precisa informar também a loja matriz *
+	
