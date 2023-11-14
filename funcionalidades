@@ -1,0 +1,29 @@
+Usuario:
+	- criar conta
+	- deletar conta
+	- fazer login
+	- ver produtos
+	- comprar produtos
+	- ver compras
+	- ver sacolinha (compras nao confirmadas)
+
+loja:
+	- criar conta
+	- deletar conta
+	- fazer login
+	- comprar produtos
+	- ver compras
+	- ver sacolinha ( compras nao confirmadas )
+	- ver vendedores que passam por perto
+	- contato com o administrador
+	- solicitar vendedor*
+	- criar evento*
+
+vendedor:
+	- criar conta
+	- deletar conta
+	- criar evento*
+	- atualizar status da rota ( iniciado, em curso, terminado)*
+	- mostruario online *
+	- ver mostruario *
+	- solicitar mostruario *
