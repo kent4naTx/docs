@@ -24,7 +24,7 @@ vendedor:
 	- deletar conta
 	- criar evento
 	- atualizar status da rota ( iniciado, em curso, terminado)*
-	- mostruario online *
+	- mostruario online
 	- ver mostruario
 	- solicitar mostruario
 	- criar rota
