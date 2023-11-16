@@ -16,19 +16,19 @@ loja:
 	- ver sacolinha ( compras nao confirmadas )
 	- ver vendedores que passam por perto
 	- contato com o administrador
-	- solicitar vendedor*
-	- criar evento*
+	- solicitar vendedor
+	- criar evento
 
 vendedor:
 	- criar conta
 	- deletar conta
-	- criar evento*
+	- criar evento
 	- atualizar status da rota ( iniciado, em curso, terminado)*
 	- mostruario online *
-	- ver mostruario *
-	- solicitar mostruario *
+	- ver mostruario
+	- solicitar mostruario
 	- criar rota
-	- solicitar aprovaçao de rota*
+	- solicitar aprovaçao de rota
 
 administrador:
 	- ver todos os usuarios
@@ -41,6 +41,6 @@ administrador:
 	- remover vendedores
 	- criar mostruario
 	- remover mostruario
-	- crar rota
+	- criar rota
 	- remover rota
 	- aprovar rota
