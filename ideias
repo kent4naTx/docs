@@ -19,4 +19,13 @@
 	* com a trasação feita pelo lojista. Vai uma notificacao para um painel do vendedor. e esse tem 10 minutos para confirmar a compra 			
 	 do lojista utilizando o token que é gerado pelo lojista *
 	* essa transação com intermediario-online, precisa informar também a loja matriz *
-	
+
+
+
+
+2. Após finalizado
+	Deixar sistema separado, por exemplo: 
+		Api como back end separado (ok)
+		Web como Sistema de gerenciamento/projeto_da_uepg separado (ok)
+		Web como landing page separado do sistema de gerenciamento ( )
+		Web como sistema de ecommerce separado, melhor solução seria implementar via shopify ( )
